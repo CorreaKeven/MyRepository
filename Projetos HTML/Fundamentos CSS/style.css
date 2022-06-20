@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+h1 {
+color: blue;
+font-family: 'Macondo', cursive;
+}
+strong{
+    color:red;
+}
