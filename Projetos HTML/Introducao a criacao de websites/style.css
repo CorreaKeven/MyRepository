@@ -1,0 +1,22 @@
+body {
+    background: white;
+}
+
+
+#tittle, .subtittle , .post_tittle {
+
+    color : blue;
+}
+
+.post_tittle{
+
+    font-size: 16px;
+    font-style: italic;
+}
+
+.post {
+
+background-color: aqua;
+padding: 10px;
+
+}
